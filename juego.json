@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Penca Campeonato Uruguayo",        
+        "modalidad": "Pronostica los resultados",
+        "premio": "TV Smart 58 pulgadas"
+    },
+    {
+        "nombre": "Penca Champions League",        
+        "modalidad": "Pronostica los resultados",
+        "premio": "Viaje a la final"
+    },
+    {
+        "nombre": "Fantasy Fútbol Uruguayo",        
+        "modalidad": "Armá tu equipo y competí contra el resto",
+        "premio": "Play Station 5"
+    }
+]

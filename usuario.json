@@ -1,0 +1,38 @@
+[
+    {
+        "cuenta": "charlymanya",
+        "nombre": "Carlos Acevedo",
+        "sexo": "Hombre",
+        "edad": 25
+    },
+    {
+        "cuenta": "bolsolocura",
+        "nombre": "Richard Peralta",
+        "sexo": "Hombre",
+        "edad": 42
+    },
+    {
+        "cuenta": "lulifan",
+        "nombre": "Luciana Rodríguez",
+        "sexo": "Mujer",
+        "edad": 19
+    },
+    {
+        "cuenta": "bielsista",
+        "nombre": "Miguel Fernández",
+        "sexo": "Hombre",
+        "edad": 50
+    },
+    {
+        "cuenta": "hachaytiza",
+        "nombre": "Florencia Martínez",
+        "sexo": "Mujer",
+        "edad": 24
+    },
+    {
+        "cuenta": "merenguegalactico",
+        "nombre": "Mateo Valdéz",
+        "sexo": "Hombre",
+        "edad": 32
+    }
+]

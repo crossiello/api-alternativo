@@ -1,0 +1,38 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Claudio Rossiello",
+        "usuarioTwitter": "@claudior32",
+        "mail": "claudio.rossiello@hotmail.com"
+    },
+    {
+        "codigo": 2,
+        "nombre": "Juan Pérez",
+        "usuarioTwitter": "@juancitosports",
+        "mail": "juanperezsports@gmail.com"
+    },
+    {
+        "codigo": 3,
+        "nombre": "Ana González",
+        "usuarioTwitter": "@anagonzalezok",
+        "mail": "anagonzalezok@hotmail.com"
+    },
+    {
+        "codigo": 4,
+        "nombre": "Cecilia Domínguez",
+        "usuarioTwitter": "@cecidominguez90",
+        "mail": "ceciliadominguez90@sports.com"
+    },
+    {
+        "codigo": 5,
+        "nombre": "Marcelo Torres",
+        "usuarioTwitter": "@chelotorres",
+        "mail": "marcelotorres25@gmail.com"
+    },
+    {
+        "codigo": 6,
+        "nombre": "Fabián Rodríguez",
+        "usuarioTwitter": "@geranalisis",
+        "mail": "german.rodriguez@sports.com"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": 435,
+        "tipoContenido": "Entrevista",
+        "titulo": "Me quiero ir del club",
+        "fecha": "13/8/2021",
+        "periodista": 5
+    },
+    {
+        "codigo": 497,
+        "tipoContenido": "Análisis",
+        "titulo": "Cinco fortalezas de Peñarol",
+        "fecha": "10/8/2021",
+        "periodista": 6
+    },
+    {
+        "codigo": 205,
+        "tipoContenido": "Noticia",
+        "titulo": "Real Madrid a la carga por Mbappé",
+        "fecha": "12/8/2021",
+        "periodista": 2
+    },
+    {
+        "codigo": 356,
+        "tipoContenido": "Opinión",
+        "titulo": "Momento de quiebre",
+        "fecha": "02/08/2021",
+        "periodista": 1
+    },
+    {
+        "codigo": 157,
+        "tipoContenido": "Crónica",
+        "titulo": "Cerrito enorme",
+        "fecha": "08/08/2021",
+        "periodista": 4
+    },
+    {
+        "codigo": 150,
+        "tipoContenido": "Resumen",
+        "titulo": "Todos los goles de Messi en Barcelona",
+        "fecha": "11/08/2021",
+        "periodista": 3
+    }
+]
