@@ -1,0 +1,17 @@
+{
+    "articles": [{
+            "name": "Hamburguesa",
+            "count": 3,
+            "unitCost": 250,
+            "currency": "UYU",
+            "src": "img/hamburguesa.jpg"
+        },
+        {
+            "name": "Pancho",
+            "count": 1,
+            "unitCost": 90,
+            "currency": "UYU",
+            "src": "img/pancho.jpg"
+        }
+    ]
+}
